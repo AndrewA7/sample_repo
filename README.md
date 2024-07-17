@@ -1,3 +1,4 @@
 Test readme file
 
-New tex added
+New text added
+3 line added
